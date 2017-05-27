@@ -14,8 +14,8 @@
 * Mark E. Russinovich,David A. Solomon,Alex Ionescu, "Windows Internals (6th edition)", Pearson, 2012
 
 ## Screenshots
-Exception settings  
+- Exception settings  
 ![exception settings](https://github.com/clavis0x/WebcamProtector/blob/master/screenshot/2.png)  
 
-Attack blocking notification (Metasploit)  
+- Attack blocking notification (Metasploit)  
 ![blocked attack](https://github.com/clavis0x/WebcamProtector/blob/master/screenshot/3.png)
