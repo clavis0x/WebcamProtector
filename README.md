@@ -11,7 +11,7 @@
 
 ## Reference
 * Greg Hoglund,James Butler, "Rootkits: Subverting the Windows Kernel", Addison-Wesley, 2006
-* 
+* Mark E. Russinovich,David A. Solomon,Alex Ionescu, "Windows Internals (6th edition)", Pearson, 2012
 
 ## Screenshots
 Exception settings  
