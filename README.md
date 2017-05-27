@@ -3,13 +3,15 @@
 ## Introduction
 
 ## Develop Environment
-* 111111
-* 2222222
-* 333333333
+* Visual Studio Community 2015 Update 3
+* Windows Driver Kit Version 7.1.0
 
 ## Platform
+* Windows 7 x86
 
 ## Reference
+* Greg Hoglund,James Butler, "Rootkits: Subverting the Windows Kernel", Addison-Wesley, 2006
+* 
 
 ## Screenshots
 Exception settings  
