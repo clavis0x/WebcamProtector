@@ -9,7 +9,7 @@
 ## Reference
 
 ## Screenshots
-Exception settings
+Exception settings  
 ![exception settings](https://github.com/clavis0x/WebcamProtector/blob/master/screenshot/2.png)  
 
 Attack blocking notification (Metasploit)  
