@@ -9,6 +9,9 @@
 ## Platform
 * Windows 7 x86
 
+## Mechanism
+![Mechanism](https://github.com/clavis0x/WebcamProtector/blob/master/screenshot/5.png)
+
 ## Reference
 * Greg Hoglund,James Butler, "Rootkits: Subverting the Windows Kernel", Addison-Wesley, 2006
 * Mark E. Russinovich,David A. Solomon,Alex Ionescu, "Windows Internals (6th edition)", Pearson, 2012
