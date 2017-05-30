@@ -12,8 +12,8 @@
 ## Mechanism
 * Windows Device Driver
 * SSDT(System Service Descriptor Table) Hooking
-* Kernel-User Communication : Global event object, DeviceIoControl  
-![Mechanism](https://github.com/clavis0x/WebcamProtector/blob/master/screenshot/5.png)  
+* Kernel-User Communication : Global event object, DeviceIoControl    
+![Mechanism](https://github.com/clavis0x/WebcamProtector/blob/master/screenshot/5.png)    
 ![Mechanism](https://github.com/clavis0x/WebcamProtector/blob/master/screenshot/6.png)
 
 ## Reference
